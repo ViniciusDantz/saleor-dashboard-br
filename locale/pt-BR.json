@@ -7693,5 +7693,3112 @@
     "hAcUEl": {
         "context": "product publication date label",
         "string": "será publicado em {date}"
+    },
+    "++8ZWj": {
+        "string": "Solicitado",
+        "context": "Transaction event status - requested"
+    },
+    "+2VydL": {
+        "string": "Exceções de países",
+        "context": "card title"
+    },
+    "+IayD+": {
+        "string": "Valor do reembolso",
+        "context": "order transaction refund summary title"
+    },
+    "+Jgot0": {
+        "string": "Classe de imposto",
+        "context": "tax class for a product type"
+    },
+    "+MJW+8": {
+        "string": "Criar desconto",
+        "context": "button"
+    },
+    "+Ps1jL": {
+        "string": "Seja extremamente cuidadoso com os aplicativos de impostos e pagamentos, certifique-se de que sua configuração selecione outros aplicativos a serem usados"
+    },
+    "+RffqY": {
+        "string": "Selecione o tipo de objeto para realizar a execução seca na consulta fornecida",
+        "context": "Dry run dialog object title"
+    },
+    "+SYLEL": {
+        "string": "Reembolsado",
+        "context": "refunded fulfillment, section header"
+    },
+    "+U6ozc": {
+        "string": "Tipo"
+    },
+    "+b/qJ9": {
+        "string": "Excluir rascunhos de ordens"
+    },
+    "+b3KCV": {
+        "string": "Ativar",
+        "context": "button"
+    },
+    "+bhokL": {
+        "string": "Pesquisar descontos..."
+    },
+    "+hib+V": {
+        "string": "Esse atributo já está atribuído.",
+        "context": "error message"
+    },
+    "+iV0gu": {
+        "string": "Aplicativos internos"
+    },
+    "+mmPxn": {
+        "string": "Reembolso do subsídio",
+        "context": "page header"
+    },
+    "+sXiWx": {
+        "string": "Editar reembolso de subsídio",
+        "context": "window title"
+    },
+    "/0gMCW": {
+        "string": "Tente atualizar a página ou navegar para uma página diferente e voltar."
+    },
+    "/4bJkA": {
+        "string": "Valor",
+        "context": "header field value, header"
+    },
+    "/5csTX": {
+        "string": "Os produtos foram devolvidos com sucesso e o reembolso foi enviado!",
+        "context": "order returned success message"
+    },
+    "/5r4he": {
+        "string": "Adicionar país",
+        "context": "label for button"
+    },
+    "/C//FB": {
+        "string": "Alocados",
+        "context": "header, allocated product quantity"
+    },
+    "/DzBc6": {
+        "string": "A estratégia define a preferência dos depósitos para alocações e reservas de estoque.",
+        "context": "section description"
+    },
+    "/Fa+RP": {
+        "string": "Não foi possível carregar os principais produtos"
+    },
+    "/ILyIf": {
+        "string": "Etiqueta de classe de imposto",
+        "context": "tax classes menu header"
+    },
+    "/PhkXi": {
+        "string": "Aplicativos instalados",
+        "context": "section header"
+    },
+    "/U8FUp": {
+        "string": "Não foi possível carregar as atividades"
+    },
+    "/eTYOp": {
+        "string": "Suporte",
+        "context": "app support"
+    },
+    "/eWPsp": {
+        "string": "Moeda inválida usada para criar a transação"
+    },
+    "/iijFq": {
+        "string": "Limite global",
+        "context": "input label"
+    },
+    "/jJLYy": {
+        "string": "Transações"
+    },
+    "/nZy6A": {
+        "string": "Emitir reembolso",
+        "context": "page subtitle"
+    },
+    "/qk66u": {
+        "string": "Conceder reembolso #{orderNumber}",
+        "context": "window title"
+    },
+    "/xJSe8": {
+        "string": "Quando os usuários confirmam sua conta de e-mail, todos os pedidos anônimos anteriores feitos com o mesmo e-mail são adicionados ao seu histórico de pedidos.",
+        "context": "When users confirm their email account, all previous anonymous orders placed under the same email would be added to their order history."
+    },
+    "/yJJvI": {
+        "string": "Selecione um tipo de produto",
+        "context": "dialog header"
+    },
+    "01+5kQ": {
+        "string": "Marcar como pago"
+    },
+    "0HBlkO": {
+        "string": "Canais de pesquisa"
+    },
+    "0KmZCN": {
+        "string": "Playground aberto",
+        "context": "button"
+    },
+    "0OAE9q": {
+        "string": "Checkout e pedidos"
+    },
+    "0ReyKr": {
+        "string": "Publicado desde {publishedAt}",
+        "context": "VariantDetailsChannelsAvailabilityCard item subtitle published"
+    },
+    "0V1q0d": {
+        "string": "Escolha o país que você deseja adicionar",
+        "context": "add country dialog header"
+    },
+    "0VkxrS": {
+        "string": "Playground GraphQL"
+    },
+    "0XHXTZ": {
+        "string": "Título",
+        "context": "column header"
+    },
+    "0YjGFG": {
+        "string": "Para assinatura",
+        "context": "alert message"
+    },
+    "0a0fLZ": {
+        "string": "Não há países atribuídos",
+        "context": "countries list menu label when no countries are assigned"
+    },
+    "0kPdlb": {
+        "string": "Em vez disso, use a assinatura RS256.",
+        "context": "deprecated secret key toolbar label"
+    },
+    "0khVBN": {
+        "string": "Catálogo",
+        "context": "discount type"
+    },
+    "0mhR+F": {
+        "string": "Quantidade",
+        "context": "Header row quantity label"
+    },
+    "0u9Ng0": {
+        "string": "Nenhum objeto foi encontrado na consulta fornecida",
+        "context": "Dry run no objects found"
+    },
+    "0vsMRq": {
+        "string": "Ao excluir esse aplicativo, você excluirá todos os dados e webhooks relacionados a ele.",
+        "context": "delete custom app"
+    },
+    "0whAeC": {
+        "string": "Reembolsos pendentes",
+        "context": "sum of all pending refunds inside an order"
+    },
+    "1+ROfp": {
+        "string": "Transação"
+    },
+    "1/oauz": {
+        "string": "Quantidade a reembolsar",
+        "context": "grant refund table, column header"
+    },
+    "16Dpgb": {
+        "string": "O webhook síncrono envia a carga útil e aguarda uma resposta do URL de destino para continuar o processamento.",
+        "context": "Synchronous events description"
+    },
+    "16iwCI": {
+        "string": "Cumprido",
+        "context": "section header"
+    },
+    "16sza6": {
+        "string": "O reembolso concede a reserva de um dinheiro que posteriormente pode ser enviado aos clientes por meio dos métodos de pagamento originais ou de uma transação manual."
+    },
+    "1GTU/3": {
+        "string": "Os produtos foram substituídos por",
+        "context": "replaced event title"
+    },
+    "1H+V6k": {
+        "string": "Já existe uma página com esses atributos.",
+        "context": "error message"
+    },
+    "1N8lSy": {
+        "string": "Resumo dos pagamentos",
+        "context": "Order summary payment header"
+    },
+    "1UQ9Qy": {
+        "string": "Prefixo do código (opcional)"
+    },
+    "1WbTJ5": {
+        "string": "Variantes",
+        "context": "product variants, title"
+    },
+    "1X6HtI": {
+        "string": "Todas as categorias"
+    },
+    "1oYjZc": {
+        "string": "Reembolso concedido",
+        "context": "sum of all granted refunds for an order"
+    },
+    "1wbsEu": {
+        "string": "Transação",
+        "context": "Transaction card title"
+    },
+    "2BHjVL": {
+        "string": "Cabeçalhos de solicitação personalizados",
+        "context": "header"
+    },
+    "2CBcub": {
+        "string": "Gerenciar",
+        "context": "CreateVariantTitle manage"
+    },
+    "2JBvj0": {
+        "string": "Produtos de exportação",
+        "context": "export products to csv file, button"
+    },
+    "2NgTCJ": {
+        "string": "Já existe um produto com essa SKU"
+    },
+    "2RYRdr": {
+        "string": "Ativo",
+        "context": "webhooks active label"
+    },
+    "2V6eD8": {
+        "string": "Reembolsos diversos",
+        "context": "refund type"
+    },
+    "2WenNh": {
+        "string": "Enviar reembolso"
+    },
+    "2dgbGR": {
+        "string": "Esses códigos já existem"
+    },
+    "2eHzVW": {
+        "string": "Os reembolsos manuais não podem ser editados"
+    },
+    "2fgaAQ": {
+        "string": "Pesquisar zonas de remessa...",
+        "context": "search input placeholder"
+    },
+    "2rJcFa": {
+        "string": "Ao excluir este aplicativo, você removerá a instalação do aplicativo. Se você estiver pagando pela assinatura do aplicativo, lembre-se de cancelar a assinatura do aplicativo no Saleor Marketplace.",
+        "context": "delete app"
+    },
+    "2x9ZgK": {
+        "string": "Saldo de reembolso",
+        "context": "card title"
+    },
+    "38dc43": {
+        "string": "Visualização dos recursos",
+        "context": "Features preview"
+    },
+    "3PVGWj": {
+        "string": "Predefinição de filtro"
+    },
+    "3SVI5p": {
+        "string": "Advertência"
+    },
+    "3a5wL8": {
+        "string": "Ativo"
+    },
+    "3mvL2Q": {
+        "string": "e"
+    },
+    "3oQzWR": {
+        "string": "Definir data de publicação",
+        "context": "product availability"
+    },
+    "3zdm8A": {
+        "string": "Transação {actionType}",
+        "context": "Dialog title"
+    },
+    "423QsF": {
+        "string": "Priorizar os armazéns com maior estoque",
+        "context": "option title"
+    },
+    "43AOvZ": {
+        "string": "Você não poderá finalizar esse rascunho porque:",
+        "context": "alert group message"
+    },
+    "43QkTW": {
+        "string": "Captura",
+        "context": "Transaction capture button - charge preauthorized transaction amount"
+    },
+    "45aV8u": {
+        "string": "Após a criação, o Saleor criará uma lista de códigos de cartões-presente que você poderá baixar.",
+        "context": "gift card bulk create modal bottom explanation"
+    },
+    "47hJzu": {
+        "string": "Permissões de aplicativo atualizadas"
+    },
+    "48dMqY": {
+        "string": "Executar",
+        "context": "Dry run trigger button"
+    },
+    "4ELCCk": {
+        "string": "Categorias",
+        "context": "column picker section default header"
+    },
+    "4EdlF/": {
+        "string": "Selecione a transação a ser reembolsada",
+        "context": "datagrid title label"
+    },
+    "4IgzXs": {
+        "string": "URL do manifesto do aplicativo",
+        "context": "label"
+    },
+    "4LRapg": {
+        "string": "Desconto removido"
+    },
+    "4T/RzC": {
+        "string": "Certifique-se de salvar o token, pois você não poderá vê-lo novamente."
+    },
+    "4VOIum": {
+        "string": "A ativação dessa caixa de seleção removerá o produto das páginas de pesquisa e de categoria. Ele estará disponível nas páginas de coleção.",
+        "context": "product availability"
+    },
+    "4VivsY": {
+        "string": "Preço total"
+    },
+    "4XhJY+": {
+        "string": "Adicionar produto de {channelName}",
+        "context": "dialog header"
+    },
+    "4fJ17F": {
+        "string": "Cobrança pendente",
+        "context": "Charge in progress transaction amount, data display header"
+    },
+    "4gJAm6": {
+        "string": "Não é possível excluir códigos salvos"
+    },
+    "4hl9rS": {
+        "string": "Preço",
+        "context": "variant price in channel"
+    },
+    "4i7ED7": {
+        "string": "Esse reembolso foi processado com sucesso e não pode ser editado"
+    },
+    "4p3bjX": {
+        "string": "Usar taxas fixas",
+        "context": "tax strategy combobox choice"
+    },
+    "4z1O0N": {
+        "string": "Sucesso",
+        "context": "Refund status success"
+    },
+    "5I7Lc2": {
+        "string": "Atribuir página",
+        "context": "dialog header"
+    },
+    "5JUEIh": {
+        "string": "Valor do reembolso",
+        "context": "field label, refund amount"
+    },
+    "5O8EIz": {
+        "string": "Autorizar transações em vez de cobrar",
+        "context": "Authorize transactions instead of charging"
+    },
+    "5ObBlW": {
+        "string": "Modo escuro"
+    },
+    "5R4VMl": {
+        "string": "A minuta foi reeditada a partir do pedido",
+        "context": "draft created from replace event title"
+    },
+    "5W3qxG": {
+        "string": "Editar reembolso com itens de linha",
+        "context": "edit refund title"
+    },
+    "5ZYUn5": {
+        "string": "E",
+        "context": "Filter and element text"
+    },
+    "5ZxAiY": {
+        "string": "Token"
+    },
+    "5b0Boq": {
+        "string": "Escolha o objeto",
+        "context": "Dry run items list default message"
+    },
+    "5dOOAB": {
+        "string": "Desconto criado com sucesso"
+    },
+    "5i/InH": {
+        "string": "Abra esse pedido no GraphiQL",
+        "context": "open new window button"
+    },
+    "5o84YO": {
+        "string": "Onde",
+        "context": "Filter where element text"
+    },
+    "6230rS": {
+        "string": "Regras de desconto para carrinhos e pedidos de saque."
+    },
+    "64aQXZ": {
+        "string": "Variantes para: {name}",
+        "context": "product variants, full-screen title"
+    },
+    "65j8ft": {
+        "string": "Criar novo reembolso",
+        "context": "dialog title"
+    },
+    "6FLezz": {
+        "string": "Tem certeza de que deseja excluir esse desconto?"
+    },
+    "6HHPFy": {
+        "string": "Selecione o método de cálculo do imposto",
+        "context": "tax strategy combobox hint"
+    },
+    "6SL46U": {
+        "string": "por {author}"
+    },
+    "6ScZk5": {
+        "string": "O frete já foi reembolsado.",
+        "context": "order transaction refund summary disabled shipping tooltip content"
+    },
+    "6Tps09": {
+        "string": "Inativo"
+    },
+    "6heBHt": {
+        "string": "A transação não é reembolsável. Você deve enviar o reembolso manualmente.",
+        "context": "tooltip, submit form"
+    },
+    "6pPMp9": {
+        "string": "Preço subtotal"
+    },
+    "6uy2gU": {
+        "string": "Alterar manualmente a permissão do aplicativo."
+    },
+    "6xNl6V": {
+        "string": "Adicionar código"
+    },
+    "720c51": {
+        "string": "Nome da taxa de imposto",
+        "context": "tax classes name input placeholder"
+    },
+    "74Cxe8": {
+        "string": "Produto",
+        "context": "table header product label"
+    },
+    "7EDqed": {
+        "string": "Todos os cartões-presente",
+        "context": "tab name"
+    },
+    "7Hdiw2": {
+        "string": "O nome da regra é obrigatório"
+    },
+    "7J1ZKs": {
+        "string": "Voltar à lista de aplicativos",
+        "context": "button"
+    },
+    "7Jg9ec": {
+        "string": "Você não tem permissão para fazer login.",
+        "context": "error message"
+    },
+    "7KRGqz": {
+        "string": "Saldo de pagamentos",
+        "context": "Payment card title"
+    },
+    "7MUx0T": {
+        "string": "Desconto de {valor} através do {canal}"
+    },
+    "7Oorx5": {
+        "string": "Pesquisar no catálogo",
+        "context": "navigator section header"
+    },
+    "7QPLu0": {
+        "string": "Nenhuma transação foi feita para esse pedido.",
+        "context": "empty state message"
+    },
+    "7U/NPm": {
+        "string": "Adicionar país para acessar classes de impostos",
+        "context": "tax class rates list label when no country is selected"
+    },
+    "7WEeNq": {
+        "string": "Verdadeiro",
+        "context": "select label"
+    },
+    "7ejEbB": {
+        "string": "Autorizado",
+        "context": "Authorized (amount locked on card, not transfered to store owner) transaction amount, data display header"
+    },
+    "7t+oJp": {
+        "string": "Dinheiro não estabelecido",
+        "context": "orde, granted refunds card, unsettled amount"
+    },
+    "7u9Ep7": {
+        "string": "Desativado",
+        "context": "Label when app is disabled"
+    },
+    "83egc7": {
+        "string": "Insira manualmente o código do voucher."
+    },
+    "8BBMRj": {
+        "string": "Nova classe de imposto",
+        "context": "default tax class name for new tax classes"
+    },
+    "8GC/ah": {
+        "string": "Variantes",
+        "context": "variants section name"
+    },
+    "8Q504V": {
+        "string": "Metadados"
+    },
+    "8iUzOU": {
+        "string": "Permite concluir o checkout com o pedido antes de um pagamento bem-sucedido.",
+        "context": "allow unpaid orders checbkox description"
+    },
+    "8pVWve": {
+        "string": "Esse campo não pode estar em branco"
+    },
+    "8vQGO0": {
+        "string": "Essa variante não existe mais. Você ainda pode preenchê-la.",
+        "context": "tooltip content when line's variant has been deleted"
+    },
+    "945a4a": {
+        "string": "E-mail do cliente",
+        "context": "column header"
+    },
+    "94oZR0": {
+        "string": "Você ainda será cobrado pelo aplicativo.",
+        "context": "deactivate app billing info"
+    },
+    "98Nw4g": {
+        "string": "Preços pagos",
+        "context": "card subtitle"
+    },
+    "991li9": {
+        "string": "Motivo do reembolso",
+        "context": "input label"
+    },
+    "9B2mOB": {
+        "string": "Número de produtos",
+        "context": "tile view pagination label"
+    },
+    "9BvYb9": {
+        "string": "Voucher"
+    },
+    "9CW3TD": {
+        "string": "Tipo de prêmio",
+        "context": "label"
+    },
+    "9FGTOt": {
+        "string": "Permitir o acesso a pedidos de todos os canais"
+    },
+    "9MGrEp": {
+        "string": "Está disponível"
+    },
+    "9Mro3c": {
+        "string": "Pendente",
+        "context": "Transaction event status - pending"
+    },
+    "9OZ/fr": {
+        "string": "Edição em massa",
+        "context": "open full-screen mode with bulk edit"
+    },
+    "9QtKvB": {
+        "string": "Transportável",
+        "context": "Product type is shippable"
+    },
+    "9ScmSs": {
+        "string": "Atributos de pesquisa..."
+    },
+    "9TAzb5": {
+        "string": "O desconto {productName} foi adicionado por",
+        "context": "order line discount added title"
+    },
+    "9WhNiN": {
+        "string": "Autenticação pendente",
+        "context": "Pending authorization transaction amount, data display header"
+    },
+    "9WmA6z": {
+        "string": "Configuração padrão da unidade de peso",
+        "context": "weight config modal title"
+    },
+    "9Y5i/8": {
+        "string": "{número,plural,um{{número} cabeçalho} outros{{número} cabeçalhos de solicitação personalizados}}",
+        "context": "number of webhook headers in model"
+    },
+    "9d24PR": {
+        "string": "Criar regra"
+    },
+    "9g6Y7a": {
+        "string": "Ainda não há nada instalado.",
+        "context": "placeholder"
+    },
+    "9kzIFd": {
+        "string": "Configurações de estoque",
+        "context": "WarehouseSettings stock title"
+    },
+    "9mrWKz": {
+        "string": "Não há produtos disponíveis que correspondam à consulta no canal atribuído a esse pedido.",
+        "context": "no products placeholder"
+    },
+    "9pLPLn": {
+        "string": "Inseguro",
+        "context": "refund amounts were unsettled"
+    },
+    "9qKFTA": {
+        "string": "Categoria",
+        "context": "Product category"
+    },
+    "A+g/VP": {
+        "string": "Predefinição não salva"
+    },
+    "A02NDR": {
+        "string": "Valor do atributo muito longo e truncado em {length} caracteres.",
+        "context": "plain text attribute value was truncated"
+    },
+    "A7W4KO": {
+        "string": "Regra do catálogo"
+    },
+    "AD1PlC": {
+        "string": "Em {selectedChannelsCount} de {allChannelsCount, plural, um {# canal} outros {# canais}}",
+        "context": "channels availability text"
+    },
+    "ARfw53": {
+        "string": "Instale aplicativos criados pela equipe da Saleor ou instale aplicativos externos.",
+        "context": "description"
+    },
+    "AcMzwj": {
+        "string": "Itens do menu"
+    },
+    "AyQkmp": {
+        "string": "A classificação por essa coluna não está disponível"
+    },
+    "B+Ba0R": {
+        "string": "Permissões solicitadas"
+    },
+    "B06DG8": {
+        "string": "A transação não foi encontrada"
+    },
+    "B0fwAj": {
+        "string": "e {itemsLength} mais"
+    },
+    "B1yzuX": {
+        "string": "Adicionar motivo",
+        "context": "button label"
+    },
+    "B5KI59": {
+        "string": "Adicionar filtro para iniciar",
+        "context": "Empty filters text"
+    },
+    "BFR6CF": {
+        "string": "Webhooks e eventos",
+        "context": "webhooks and events section name"
+    },
+    "BJtUQI": {
+        "string": "Adicionar",
+        "context": "button"
+    },
+    "BR8au7": {
+        "string": "Selecione o canal para o qual você deseja mover as ordens existentes.",
+        "context": "delete channel"
+    },
+    "BVDaKx": {
+        "string": "Desconto subtotal"
+    },
+    "BWpuKl": {
+        "string": "Atualização"
+    },
+    "BYTvv/": {
+        "string": "Os seguintes eventos da consulta fornecida não estão disponíveis para execução a seco no momento:",
+        "context": "Dry run events unavailable"
+    },
+    "BaxGjT": {
+        "string": "A atribuição dos estoques será possível depois que a variante for salva.",
+        "context": "variant stocks section subtitle"
+    },
+    "BbP+k3": {
+        "string": "Disponível",
+        "context": "variant availability in channel"
+    },
+    "Bkxrhw": {
+        "string": "Não foram encontrados webhooks",
+        "context": "no webhooks message"
+    },
+    "Bl6896": {
+        "string": "Valor do reembolso"
+    },
+    "BvGp1I": {
+        "string": "entre"
+    },
+    "ByYtFB": {
+        "string": "Token inválido ou expirado. Verifique seu token no URL"
+    },
+    "C+WD8j": {
+        "string": "todos os",
+        "context": "alert message"
+    },
+    "C035fF": {
+        "string": "Os fundos serão devolvidos em uma etapa separada",
+        "context": "grant refund, refund card explanation next to submit button"
+    },
+    "CFG1Ix": {
+        "string": "Faixa de preço",
+        "context": "shipping zone"
+    },
+    "CFT171": {
+        "string": "Lista de países",
+        "context": "card header title"
+    },
+    "CHoZ8S": {
+        "string": "Veja a política de privacidade deste aplicativo.",
+        "context": "app privacy policy link"
+    },
+    "ClKKID": {
+        "string": "Não publicado",
+        "context": "channel publication status"
+    },
+    "CmxKIg": {
+        "string": "Reembolso do subsídio",
+        "context": "window title"
+    },
+    "Cn6l5R": {
+        "string": "Playground",
+        "context": "playground shortcut"
+    },
+    "CrY98m": {
+        "string": "Marcar o pedido como pago",
+        "context": "button, marks order as paid (legacy payments)"
+    },
+    "D3idYv": {
+        "string": "Configurações"
+    },
+    "D5Wtf/": {
+        "string": "Nome do país",
+        "context": "table header column"
+    },
+    "D95l71": {
+        "string": "Todos os clientes",
+        "context": "tab name"
+    },
+    "DDYrvn": {
+        "string": "O valor da recompensa da regra deve ser menor que 100"
+    },
+    "DJatYh": {
+        "string": "Gerar vários códigos de uma só vez"
+    },
+    "DOHARW": {
+        "string": "Falha",
+        "context": "Refund status failure"
+    },
+    "DOVEZF": {
+        "string": "Criar conteúdo",
+        "context": "button"
+    },
+    "DVgMit": {
+        "string": "Estorno",
+        "context": "transaction event type, transaction was chargeback by payment provider"
+    },
+    "DhFqJF": {
+        "string": "Editar desconto"
+    },
+    "DyGpz4": {
+        "string": "Aguardando aprovação",
+        "context": "unapproved fulfillment, section header"
+    },
+    "E/yzIO": {
+        "string": "Exibir metadados"
+    },
+    "E1C9pp": {
+        "string": "Valor da autorização ajustado",
+        "context": "transaction event type, authorization amount was changed"
+    },
+    "E9Dz18": {
+        "string": "Reembolsos",
+        "context": "Order summary refunds header"
+    },
+    "E9E5Eh": {
+        "string": "Lembre-se de que as condições não serão atualizadas quando você mudar de canal."
+    },
+    "EY/jqC": {
+        "string": "Última tentativa de entrega:"
+    },
+    "EYkW1J": {
+        "string": "Cobrar impostos para esse canal",
+        "context": "checkbox label"
+    },
+    "EewziG": {
+        "string": "Quando ativados, os cartões-presente que não podem ser enviados serão automaticamente definidos como cumpridos e enviados ao cliente",
+        "context": "checkbox gift cards label description"
+    },
+    "EoTI4r": {
+        "string": "Nenhum",
+        "context": "authorize status none"
+    },
+    "EojeG7": {
+        "string": "Parcial",
+        "context": "authorize status partial"
+    },
+    "Epm41J": {
+        "string": "Armazéns de A a Z",
+        "context": "change warehouse dialog warehouse list label"
+    },
+    "Eq3GFh": {
+        "string": "É giftcard"
+    },
+    "ErvPaM": {
+        "string": "Nome do depósito",
+        "context": "header"
+    },
+    "EuOXmr": {
+        "string": "Adicionar {itemsName}",
+        "context": "add items title"
+    },
+    "EwoyVr": {
+        "string": "Excluir zonas de expedição",
+        "context": "bulk remove button label"
+    },
+    "F/JMp6": {
+        "string": "Completo",
+        "context": "authorize status full"
+    },
+    "F0N1SC": {
+        "string": "Selecione um tipo de página",
+        "context": "dialog header"
+    },
+    "F1VtFa": {
+        "string": "A instalação está pendente...",
+        "context": "information"
+    },
+    "F2cR19": {
+        "string": "Detalhes do erro: {mensagem}",
+        "context": "error message"
+    },
+    "F2kF9e": {
+        "string": "Você deve selecionar a transação que deseja reembolsar"
+    },
+    "F6LHyk": {
+        "string": "Objetos",
+        "context": "Webhook details objects"
+    },
+    "F7DxHw": {
+        "string": "Subcategorias"
+    },
+    "F8pCg4": {
+        "string": "Opcional",
+        "context": "input placeholder"
+    },
+    "FSOOH7": {
+        "string": "Priorizar os depósitos por ordem de classificação",
+        "context": "option title"
+    },
+    "FTYkgw": {
+        "string": "Excluir coleções"
+    },
+    "FWaL+x": {
+        "string": "O saldo do cartão-presente foi zerado",
+        "context": "gift card history message"
+    },
+    "FWbv/u": {
+        "string": "Criar desconto",
+        "context": "page header"
+    },
+    "FX7ts2": {
+        "string": "O valor deve ser maior que 0",
+        "context": "error message"
+    },
+    "FYfoiF": {
+        "string": "Estratégia de alocação",
+        "context": "section name"
+    },
+    "FZTrzW": {
+        "string": "Reembolso manual"
+    },
+    "FiO/W/": {
+        "string": "Excluir categorias"
+    },
+    "FmwGVb": {
+        "string": "Cobrado",
+        "context": "transaction refund tiles charged label"
+    },
+    "FopBSj": {
+        "string": "Seu nome de usuário e/ou senha estão incorretos. Por favor, tente novamente.",
+        "context": "error message"
+    },
+    "Ftz7VI": {
+        "string": "Valor da transação",
+        "context": "input label, transaction amount"
+    },
+    "Fxahwt": {
+        "string": "Adicione o motivo do reembolso para essa linha",
+        "context": "modal title"
+    },
+    "G5NKx6": {
+        "string": "O limite de tempo de reserva do checkout está ativado nas configurações.",
+        "context": "tooltip"
+    },
+    "GA+Djy": {
+        "string": "Tem certeza de que deseja excluir esses códigos de voucher?"
+    },
+    "GCho9N": {
+        "string": "Todas as informações de configurações de canal, como remessa, listagens de produtos, atribuições de armazém etc., serão perdidas.",
+        "context": "delete channel"
+    },
+    "GJwcSd": {
+        "string": "Referência PSP (opcional)"
+    },
+    "GKQGKG": {
+        "string": "Privacidade dos dados",
+        "context": "app data privacy"
+    },
+    "GNKG74": {
+        "string": "Inativo",
+        "context": "webhooks inactive label"
+    },
+    "GP0zGO": {
+        "string": "Selecione o canal de destino:",
+        "context": "dialog header"
+    },
+    "GTCg9O": {
+        "string": "Você deve adicionar pelo menos um código de voucher"
+    },
+    "GcbFa9": {
+        "string": "menos",
+        "context": "aria-label, negative money amount"
+    },
+    "Ge+dUe": {
+        "string": "Para excluir {channelSlug}, você precisa criar um canal com a moeda: {currency} para poder mover todas as ordens existentes.",
+        "context": "currency channel"
+    },
+    "GhY+pm": {
+        "string": "Atributos",
+        "context": "dynamic column description"
+    },
+    "GuihaP": {
+        "string": "Remessa",
+        "context": "order transaction refund summary label"
+    },
+    "GxsQuO": {
+        "string": "Você deve selecionar pelo menos um presente"
+    },
+    "H/xj8R": {
+        "string": "Publicado desde {getPublishedAt}",
+        "context": "VariantDetailsChannelsAvailabilityCard item subtitle published"
+    },
+    "H1L1cc": {
+        "string": "URL",
+        "context": "url"
+    },
+    "HAlOn1": {
+        "string": "Nome"
+    },
+    "HLr8KQ": {
+        "string": "Texto simples",
+        "context": "plain text attribute type"
+    },
+    "HN1Gvw": {
+        "string": "Alocar a linha de pedido para um depósito com o maior estoque. Se não houver estoque suficiente disponível em um único depósito, a quantidade restante será alocada no próximo depósito com mais estoque e repetida, se necessário.",
+        "context": "option description"
+    },
+    "HRXLYk": {
+        "string": "Entre em contato",
+        "context": "cta button label"
+    },
+    "HW6Vef": {
+        "string": "Essa transação não é reembolsável"
+    },
+    "HYC6cH": {
+        "string": "Limite que não pode ser excedido, mesmo que os limites por canal ainda estejam disponíveis",
+        "context": "input description"
+    },
+    "HYK65C": {
+        "string": "Regra de pedido"
+    },
+    "Hc58JL": {
+        "string": "Saldo após as solicitações",
+        "context": "card title"
+    },
+    "HnZCl7": {
+        "string": "Pesquisar países tributários",
+        "context": "search input placeholder"
+    },
+    "HqRNN8": {
+        "string": "Suporte"
+    },
+    "Hswqx2": {
+        "string": "Excluir descontos"
+    },
+    "I+1KzL": {
+        "string": "Todos os atributos",
+        "context": "tab name"
+    },
+    "I/y4IU": {
+        "string": "um de",
+        "context": "alert message"
+    },
+    "I5vC7T": {
+        "string": "Editar motivo",
+        "context": "button label"
+    },
+    "ICeshC": {
+        "string": "Transportável",
+        "context": "product type"
+    },
+    "IEpmGQ": {
+        "string": "Use a Saleor Cloud para acessar os aplicativos Saleor",
+        "context": "description"
+    },
+    "IF2KbT": {
+        "string": "Nuvem Saleor"
+    },
+    "IH47ID": {
+        "string": "Use o botão acima para adicionar novas variantes de produtos"
+    },
+    "ILgbKN": {
+        "string": "Adicionar mais",
+        "context": "key-value field button add more key-value pairs"
+    },
+    "INKsSL": {
+        "string": "Sucesso",
+        "context": "Transaction event status - success"
+    },
+    "IOg+Hh": {
+        "string": "Reembolso com valor manual"
+    },
+    "IOshTA": {
+        "string": "Tradução MenuItem \"{menuItemName}\" - {languageCode}",
+        "context": "header"
+    },
+    "IYuKD6": {
+        "string": "Nenhum desconto encontrado"
+    },
+    "Id9vlh": {
+        "string": "Adicione o título e a descrição do mecanismo de pesquisa para facilitar a localização da página",
+        "context": "page seo options description"
+    },
+    "IfiR4M": {
+        "string": "Pendente",
+        "context": "heading, sum of all pending refunds from transactions in order"
+    },
+    "Ila7WO": {
+        "string": "Escolha o depósito do qual você deseja atender {productName}",
+        "context": "change warehouse dialog description"
+    },
+    "IqRBql": {
+        "string": "Nova variante",
+        "context": "variant name"
+    },
+    "IyV8CY": {
+        "string": "Autorizado",
+        "context": "all authorized amount from transactions in order"
+    },
+    "IzECoP": {
+        "string": "Pesquisar rascunhos de ordens..."
+    },
+    "J0lNnk": {
+        "string": "Armazém",
+        "context": "column label"
+    },
+    "J3W5LI": {
+        "string": "Presente de sorvete",
+        "context": "order line is gift"
+    },
+    "J4E+jp": {
+        "string": "Nome da variante"
+    },
+    "J4NBVR": {
+        "string": "Exibir pedidos",
+        "context": "link"
+    },
+    "J5R1SI": {
+        "string": "Precisa de ajuda técnica?",
+        "context": "home get in touch card title"
+    },
+    "JJLkzh": {
+        "string": "Selecione a transação a ser reembolsada"
+    },
+    "JMBsrr": {
+        "string": "Disponível",
+        "context": "table header available stock label"
+    },
+    "JkO0jp": {
+        "string": "{unitsLeft} unidades à esquerda",
+        "context": "input description"
+    },
+    "JmdBa3": {
+        "string": "Publicar em",
+        "context": "product availability publish date"
+    },
+    "K1ycaD": {
+        "string": "Valor do reembolso",
+        "context": "input label"
+    },
+    "KDvRBi": {
+        "string": "Instalar",
+        "context": "button"
+    },
+    "KFv8hX": {
+        "string": "Um atributo já existe."
+    },
+    "KMxiiF": {
+        "string": "Repetir",
+        "context": "button"
+    },
+    "KOqZv3": {
+        "string": "Você precisa conceder o reembolso primeiro.",
+        "context": "tooltip, submit form"
+    },
+    "KPmk40": {
+        "string": "Parcial",
+        "context": "charge status partial"
+    },
+    "KWXwFo": {
+        "string": "Preço unitário",
+        "context": "grant refund table, column header"
+    },
+    "KXkdMH": {
+        "string": "O desconto do pedido foi removido por",
+        "context": "order discount removed title"
+    },
+    "Kfuqfq": {
+        "string": "Transferência de fundos",
+        "context": "transfer funds button"
+    },
+    "KkufwD": {
+        "string": "Nenhum código de voucher encontrado"
+    },
+    "Kv58Rx": {
+        "string": "{selectedItemsCount,plural,one{Are you sure you want to delete this gift card?} other{Are you sure you want to delete {selectedItemsCount} gift cards?}}",
+        "context": "default gift card delete description"
+    },
+    "L/sNGY": {
+        "string": "Os aplicativos locais são webhooks personalizados e pares de tokens que podem ser usados para conectar aplicativos e acessar a API do Saleor."
+    },
+    "L2tvTm": {
+        "string": "Usar o fluxo de transações ao marcar o pedido como pago",
+        "context": "mark as paid strategy checkbox label"
+    },
+    "L5IuDw": {
+        "string": "inferior"
+    },
+    "LATHyi": {
+        "string": "Excluir canal: {channelSlug}",
+        "context": "dialog header"
+    },
+    "LJPHdt": {
+        "string": "Reembolsado e devolvido",
+        "context": "cancelled fulfillment, section header"
+    },
+    "LKD6fB": {
+        "string": "Remover o produto"
+    },
+    "LLrOK3": {
+        "string": "Criar um reembolso manual para pagamentos não integrados",
+        "context": "paragraph, description in manual refund card"
+    },
+    "LY5dS9": {
+        "string": "Cobrado",
+        "context": "Charged transaction amount, data display header"
+    },
+    "LdNCP/": {
+        "string": "Ou",
+        "context": "Filter or element text"
+    },
+    "LeJClL": {
+        "string": "Condições",
+        "context": "Popover title"
+    },
+    "Ljtqmt": {
+        "string": "Pedido",
+        "context": "page header, order id unknown"
+    },
+    "Lm2Zw7": {
+        "string": "Webhook sem nome",
+        "context": "name placeholder"
+    },
+    "Lrp9WW": {
+        "string": "Desconto de {valor} na compra de {condições} por meio do {canal}"
+    },
+    "LwU0Vy": {
+        "string": "Selecione as quantidades a serem reembolsadas",
+        "context": "datagrid title label"
+    },
+    "LwX0Ug": {
+        "string": "Gerenciar aplicativo",
+        "context": "Button with Manage app label"
+    },
+    "M59JhX": {
+        "string": "Manual"
+    },
+    "M6mWHL": {
+        "string": "Você não tem permissão para criar um reembolso manual.",
+        "context": "tooltip helper text"
+    },
+    "MIp3c7": {
+        "string": "de {valor}",
+        "context": "input adornment helper text"
+    },
+    "MJ2jZQ": {
+        "string": "Total"
+    },
+    "MTGT8E": {
+        "string": "Número de pedidos",
+        "context": "column header"
+    },
+    "MZDkkX": {
+        "string": "Todos",
+        "context": "button label"
+    },
+    "MaTR88": {
+        "string": "Integrações",
+        "context": "header"
+    },
+    "MdFdbd": {
+        "string": "Excluir regra"
+    },
+    "Mmo9k2": {
+        "string": "Estoque em depósito",
+        "context": "table header warehouse stock label"
+    },
+    "MwfSVA": {
+        "string": "Os clientes não podem adicionar quantidades a um único carrinho acima do limite quando o valor é fornecido.",
+        "context": "input helper text"
+    },
+    "MzXBdd": {
+        "string": "Falha",
+        "context": "Refund failure status"
+    },
+    "N7XGzW": {
+        "string": "Esse nome já está sendo usado. Por favor, forneça outro.",
+        "context": "error message"
+    },
+    "NL6mvR": {
+        "string": "Visite a App Store para substituir o aplicativo"
+    },
+    "NPIBGp": {
+        "string": "Concedido",
+        "context": "heading, sum of all granted refunds from transactions in order"
+    },
+    "NQgbYA": {
+        "string": "Configurações da conta"
+    },
+    "NWA+MK": {
+        "string": "<b>Importante:</b> Os reembolsos precisam ser emitidos <b>manualmente</b> após o cancelamento do pedido.",
+        "context": "dialog content"
+    },
+    "NelCIl": {
+        "string": "Conteúdo",
+        "context": "content section name"
+    },
+    "NgCb99": {
+        "string": "O desconto {productName} foi atualizado por",
+        "context": "order line discount updated title"
+    },
+    "Nj9iSB": {
+        "string": "Taxa de imposto",
+        "context": "table header column"
+    },
+    "NlEVVT": {
+        "string": "Criar classe",
+        "context": "label for button"
+    },
+    "NmK6zy": {
+        "string": "Pagamento"
+    },
+    "NmXWPM": {
+        "string": "Insira o valor do reembolso diretamente. Nenhum cálculo adicional será feito."
+    },
+    "NnhrxZ": {
+        "string": "{transactionType} refund",
+        "context": "amount of sent refund for transaction"
+    },
+    "No4lyL": {
+        "string": "Nome",
+        "context": "header field name, header"
+    },
+    "Nsk5WL": {
+        "string": "Obter suporte",
+        "context": "link"
+    },
+    "NwQXZp": {
+        "string": "Não ativo",
+        "context": "status"
+    },
+    "O4QNFx": {
+        "string": "Não há produtos disponíveis nesse canal.",
+        "context": "alert message"
+    },
+    "O987DI": {
+        "string": "Tem certeza de que deseja desativar {name}? Seus dados serão mantidos até que você reative o aplicativo.",
+        "context": "deactivate named app"
+    },
+    "OAcl78": {
+        "string": "Reembolsos concedidos",
+        "context": "order, granted refunds card, title"
+    },
+    "OFTsI1": {
+        "string": "Tentativas:"
+    },
+    "OFW7nq": {
+        "string": "Pesquisar por nome de página, etc...",
+        "context": "placeholder"
+    },
+    "OK5+Fh": {
+        "string": "Variante"
+    },
+    "ORQvOg": {
+        "string": "Você não tem permissão para executar essa ação"
+    },
+    "OSnO9P": {
+        "string": "Todas as transações não são reembolsáveis"
+    },
+    "OTDo9I": {
+        "string": "Todos os membros da equipe",
+        "context": "tab name"
+    },
+    "OtMtzH": {
+        "string": "Produto indisponível nos canais de coleta"
+    },
+    "P9YktI": {
+        "string": "Salvar predefinição de visualização",
+        "context": "save preset, header"
+    },
+    "PALiyV": {
+        "string": "Editar o motivo do reembolso para essa linha",
+        "context": "modal title"
+    },
+    "PDw0YN": {
+        "string": "Abrir esse produto no GraphiQL",
+        "context": "open new window button"
+    },
+    "PFnobO": {
+        "string": "maior"
+    },
+    "PLX6FH": {
+        "string": "Reembolso manual",
+        "context": "sum of all manual refunds for transaction"
+    },
+    "PNq9W/": {
+        "string": "Voltar",
+        "context": "back button"
+    },
+    "PlAdWI": {
+        "string": "Você está indo para"
+    },
+    "Pnj+JH": {
+        "string": "Valor",
+        "context": "key-value field input"
+    },
+    "PuQb0P": {
+        "string": "Recompensa"
+    },
+    "PvrceS": {
+        "string": "Rascunho",
+        "context": "Refund draft status"
+    },
+    "Q2us5X": {
+        "string": "Corrida a seco",
+        "context": "Dry run icon label"
+    },
+    "Q4m1CG": {
+        "string": "Editar produto"
+    },
+    "QAisk4": {
+        "string": "Eventos de webhook",
+        "context": "Webhook events header"
+    },
+    "QFBjlV": {
+        "string": "Já existe estoque para este depósito para esta variante de produto",
+        "context": "error message"
+    },
+    "QHDtwH": {
+        "string": "Tem categoria"
+    },
+    "QL4a0Z": {
+        "string": "Não publicado neste canal",
+        "context": "alert message"
+    },
+    "QX0gQb": {
+        "string": "Use a lista de produtos para sugerir o valor do reembolso. Ideal para reembolsar itens específicos ou o pedido inteiro.",
+        "context": "radio button label"
+    },
+    "Qb2XN5": {
+        "string": "O recurso \"Marcar como pago\" cria um {link} - usado por aplicativos de pagamento"
+    },
+    "QjPJ78": {
+        "string": "Fechar",
+        "context": "close full-screen"
+    },
+    "Ql7OM1": {
+        "string": "A execução de um reembolso manual acionará imediatamente uma solicitação de reembolso e diminuirá o valor cobrado da transação, afetando o saldo do pedido."
+    },
+    "QpBqa9": {
+        "string": "Os preços dos produtos são inseridos sem impostos",
+        "context": "label for radio button"
+    },
+    "QqnNUm": {
+        "string": "Visível na listagem"
+    },
+    "QslFl8": {
+        "string": "Novo reembolso",
+        "context": "add new refund button"
+    },
+    "RK6l3Z": {
+        "string": "Reembolso com valor manual",
+        "context": "radio button label"
+    },
+    "RY4PJY": {
+        "string": "Falha na instalação",
+        "context": "information"
+    },
+    "RZDxej": {
+        "string": "Filtros {count, plural, =0 {} outros {({count})} }",
+        "context": "Popover trigger text (button)"
+    },
+    "Rfk+8B": {
+        "string": "Não há classes de impostos",
+        "context": "tax classes menu label when there are no tax classes"
+    },
+    "RjT+Vo": {
+        "string": "Túnel - desenvolvimento",
+        "context": "label"
+    },
+    "RqtZQ6": {
+        "string": "Taxas de classe de imposto",
+        "context": "tax classes card header"
+    },
+    "S1p0Ja": {
+        "string": "O aplicativo terá acesso a novas permissões. A partir de agora, ele poderá usá-las para realizar operações permitidas por essas permissões. Você deve garantir que confia no aplicativo antes de aprová-lo."
+    },
+    "S2xLxV": {
+        "string": "Pesquise por nome do produto, atributo, tipo de produto etc.",
+        "context": "search placeholder"
+    },
+    "S5/nSq": {
+        "string": "Quantidade",
+        "context": "grant refund table, column header"
+    },
+    "S7Rwl0": {
+        "string": "Tem certeza de que deseja atender a esses produtos de qualquer maneira?",
+        "context": "stock exceeded action question label"
+    },
+    "S8kqP9": {
+        "string": "Condições"
+    },
+    "S90DJO": {
+        "string": "Configurações do aplicativo",
+        "context": "Button with  app settings label"
+    },
+    "SBb6Ej": {
+        "string": "Selecione o depósito...",
+        "context": "select a warehouse to fulfill product from"
+    },
+    "SBlTvZ": {
+        "string": "Pendente",
+        "context": "Refund status pending"
+    },
+    "SGdcJD": {
+        "string": "Inserir código"
+    },
+    "SI3/nl": {
+        "string": "Nada será alterado em termos de permissões. O Dashboard redirecionará para o aplicativo e informará que você negou a solicitação."
+    },
+    "SKFr04": {
+        "string": "Atributo não encontrado."
+    },
+    "SM+yG0": {
+        "string": "SKU (Unidade de Manutenção de Estoque)",
+        "context": "input label"
+    },
+    "SPp3cx": {
+        "string": "Os pedidos não podem ser feitos em um canal inativo.",
+        "context": "alert message"
+    },
+    "SRMNCS": {
+        "string": "Entregas pendentes e com falha (últimas 10)"
+    },
+    "SceSNp": {
+        "string": "Remova as seguintes permissões:"
+    },
+    "Sxzua5": {
+        "string": "Liquidado",
+        "context": "order payment"
+    },
+    "T34dJq": {
+        "string": "Esse pedido ainda não tem pagamento.",
+        "context": "Displayed when order has no payment"
+    },
+    "T3cLGs": {
+        "string": "configuração de zonas de expedição",
+        "context": "alert link message"
+    },
+    "T83iU7": {
+        "string": "Categorias de pesquisa..."
+    },
+    "TBdxTP": {
+        "string": "Promoção",
+        "context": "promotion type order discount"
+    },
+    "TBftMD": {
+        "string": "Editar reembolso concedido",
+        "context": "button. form submit, grant refund edit"
+    },
+    "THpf1b": {
+        "string": "Conjunto disponível em",
+        "context": "product availability available date"
+    },
+    "TJ7WHA": {
+        "string": "Usar aplicativo de impostos",
+        "context": "tax strategy combobox choice"
+    },
+    "TLDkvR": {
+        "string": "Cancel",
+        "context": "transaction event type, transaction was cancelled / voided"
+    },
+    "TTVPyd": {
+        "string": "Criar uma transação manual para pagamentos não integrados",
+        "context": "dialog subheading"
+    },
+    "TVR4E6": {
+        "string": "Playground aberto"
+    },
+    "TZtvTG": {
+        "string": "Necessário",
+        "context": "table header required stock label"
+    },
+    "Taa5V7": {
+        "string": "Você só pode adicionar produtos disponíveis para o canal do pedido",
+        "context": "dialog subtitle"
+    },
+    "TdTXXf": {
+        "string": "Saiba mais"
+    },
+    "Tenl9A": {
+        "string": "Envio de reembolso: {moeda} {amount}",
+        "context": "grant refund, refund card toggle"
+    },
+    "TfzIXS": {
+        "string": "Informações gerais",
+        "context": "tax classes card header"
+    },
+    "TnnDjx": {
+        "string": "Atualmente, a execução a seco não está disponível para eventos síncronos",
+        "context": "Dry run sync events alert"
+    },
+    "TxYWkD": {
+        "string": "Editar reembolso de subsídio",
+        "context": "page header, edit view"
+    },
+    "U+79k0": {
+        "string": "O tempo em dias após a expiração das ordens será excluído. Intervalo permitido entre 1 e 120.",
+        "context": "order expiration card description"
+    },
+    "U5CH0u": {
+        "string": "Tem certeza de que deseja excluir a predefinição {name}?"
+    },
+    "U5Da30": {
+        "string": "Armazéns"
+    },
+    "UBuKZ9": {
+        "string": "País",
+        "context": "searchbar placeholder"
+    },
+    "UIM5bq": {
+        "string": "Completo",
+        "context": "charge status full"
+    },
+    "UJ97Lb": {
+        "string": "Excluir códigos"
+    },
+    "UR2wY+": {
+        "string": "O pedido não tem transações. Você precisa enviar o reembolso manualmente.",
+        "context": "tooltip, submit form"
+    },
+    "Us9cA1": {
+        "string": "Margem",
+        "context": "profit margin"
+    },
+    "Uwo+ai": {
+        "string": "Produto indisponível em canais de desconto"
+    },
+    "UxOcKE": {
+        "string": "Taxa de transação solicitada",
+        "context": "order history message"
+    },
+    "V1MytH": {
+        "string": "Zonas de expedição",
+        "context": "shipping zones section name"
+    },
+    "V45+rx": {
+        "string": "Tipo de página",
+        "context": "input label"
+    },
+    "VDwkEZ": {
+        "string": "Os produtos foram reembolsados por",
+        "context": "refunded event title"
+    },
+    "VIABHy": {
+        "string": "A zona de expedição padrão já existe",
+        "context": "error message"
+    },
+    "VIdXPy": {
+        "string": "Não pode ser maior do que o preço",
+        "context": "value input helper text"
+    },
+    "VNX4fn": {
+        "string": "Prosseguir"
+    },
+    "VOjJWA": {
+        "string": "Produtos de reembolso",
+        "context": "refund type"
+    },
+    "VSj89H": {
+        "string": "Cumprir de qualquer forma",
+        "context": "fulfill button label"
+    },
+    "VYK2nN": {
+        "string": "Detalhes do produto"
+    },
+    "VkYZQ8": {
+        "string": "Permissões atuais"
+    },
+    "Vtjlpw": {
+        "string": "A transação não é exclusiva"
+    },
+    "VyC+Bm": {
+        "string": "Insira o valor do reembolso sem usar a lista de produtos. Ideal para cobranças excessivas e ajustes personalizados.",
+        "context": "radio button label"
+    },
+    "VyKl39": {
+        "string": "Tem certeza de que deseja {actionType} essa transação?",
+        "context": "Dialog warning text"
+    },
+    "Vze3qI": {
+        "string": "Canais",
+        "context": "column category descriptor"
+    },
+    "W2OIhn": {
+        "string": "Use o aplicativo: {name}"
+    },
+    "W5hb5H": {
+        "string": "Armazém",
+        "context": "warehouse input"
+    },
+    "W6nwjo": {
+        "string": "Rascunho"
+    },
+    "WCaf5C": {
+        "string": "Aprovar"
+    },
+    "WCg2GZ": {
+        "string": "Pesquisar armazéns",
+        "context": "change warehouse dialog search placeholder"
+    },
+    "WDrC7e": {
+        "string": "Valor do link",
+        "context": "label"
+    },
+    "WHgdsk": {
+        "string": "Fora de estoque"
+    },
+    "WIxSDm": {
+        "string": "Tarifas da classe {country}",
+        "context": "card header"
+    },
+    "WK62MN": {
+        "string": "Atendimento"
+    },
+    "WMN0q+": {
+        "string": "Excluir códigos de voucher"
+    },
+    "WY3IXU": {
+        "string": "Esse código já existe"
+    },
+    "WigK1f": {
+        "string": "Todos os itens são reembolsados",
+        "context": "helper text"
+    },
+    "Wm+KUd": {
+        "string": "Cabeçalhos"
+    },
+    "Wr5UOV": {
+        "string": "O login deu errado. Tente novamente.",
+        "context": "error message"
+    },
+    "WvMDHa": {
+        "string": "Não publicado",
+        "context": "page status"
+    },
+    "Ww69SE": {
+        "string": "Pesquisar classes de impostos",
+        "context": "search input placeholder"
+    },
+    "Wyl25+": {
+        "string": "O rastreamento ativo de inventário calculará automaticamente as alterações de estoque",
+        "context": "product inventory, checkbox description"
+    },
+    "XFErUZ": {
+        "string": "Pendente",
+        "context": "Refund pending status"
+    },
+    "XOkUxQ": {
+        "string": "Produto indisponível em canais de cupons"
+    },
+    "XPiJex": {
+        "string": "Vazio",
+        "context": "Transaction void button - return preauthorized amount to client"
+    },
+    "XPruqs": {
+        "string": "Pedido"
+    },
+    "XVuPMw": {
+        "string": "Tem certeza de que deseja excluir essa regra?"
+    },
+    "XgsXQv": {
+        "string": "Total:",
+        "context": "order transaction refund summary label"
+    },
+    "Xsh2Pa": {
+        "string": "Pesquisar colunas",
+        "context": "column picker search input placeholder"
+    },
+    "XtlUj6": {
+        "string": "Adicione sua primeira regra para configurar uma promoção"
+    },
+    "Xu4ST7": {
+        "string": "Nenhuma condição foi adicionada, clique no botão abaixo para criar uma"
+    },
+    "Xu4ech": {
+        "string": "Tem certeza de que deseja desativar este aplicativo? Seus dados serão mantidos até que você reative o aplicativo.",
+        "context": "deactivate app"
+    },
+    "Xy48q5": {
+        "string": "Todos os webhooks registrados por esse aplicativo. Em caso de falha na entrega do webhook, é exibida uma lista de tentativas."
+    },
+    "Xz/sDf": {
+        "string": "Item:",
+        "context": "Dry run items list item"
+    },
+    "Y0NwOq": {
+        "string": "Selecione o método de reembolso:",
+        "context": "dialog subtitle"
+    },
+    "Y3pCRX": {
+        "string": "Usar como filtro",
+        "context": "attribute can be searched in storefront"
+    },
+    "Y3zr/B": {
+        "string": "Aplica-se somente a um único produto elegível mais barato",
+        "context": "voucher application, switch button"
+    },
+    "YUaalK": {
+        "string": "Cancelamento pendente",
+        "context": "Cancel in progress transaction amount, data display header"
+    },
+    "YiC3cn": {
+        "string": "Alocar o estoque no primeiro depósito da lista atribuída a esse canal. Se o estoque for insuficiente, a quantidade restante será alocada no próximo depósito da lista e repetida, se necessário.",
+        "context": "option description"
+    },
+    "Yo4h/D": {
+        "string": "Saiba mais sobre permissões"
+    },
+    "Ys86kI": {
+        "string": "O valor reembolsado não será devolvido automaticamente ao cliente. Será necessário decidir sobre um método e reembolso por meio da seção de balanço do pedido."
+    },
+    "YzLUXA": {
+        "string": "Certifique-se de que esse valor seja maior que 0."
+    },
+    "Z3T6zR": {
+        "string": "Devolução e substituição",
+        "context": "card title"
+    },
+    "Z7Tf8e": {
+        "string": "O estoque dos itens mostrados abaixo não é suficiente para preparar o atendimento:",
+        "context": "stock exceeded dialog description"
+    },
+    "Z7lX6t": {
+        "string": "Cancelado",
+        "context": "canceled fulfillment, section header"
+    },
+    "Z8TzWt": {
+        "string": "Devolvido",
+        "context": "refunded fulfillment, section header"
+    },
+    "ZAaXfz": {
+        "string": "Países",
+        "context": "Taxes section title"
+    },
+    "ZBs2Pb": {
+        "string": "Veneno"
+    },
+    "ZCSOaS": {
+        "string": "Limite para uso do código do voucher uma vez"
+    },
+    "ZJOX8n": {
+        "string": "O produto não existe mais",
+        "context": "alert message"
+    },
+    "ZJPYFl": {
+        "string": "São aceitos cabeçalhos com o seguinte formato: <code>authorization*</code>, <code>x-*</code>",
+        "context": "accepted header names"
+    },
+    "ZOamBQ": {
+        "string": "Sobrecarga",
+        "context": "charge status overcharged"
+    },
+    "ZTG+Dv": {
+        "string": "O rascunho do pedido será criado automaticamente para os produtos substituídos"
+    },
+    "ZU1Kz8": {
+        "string": "Não há reembolso para esse pedido.",
+        "context": "empty state message"
+    },
+    "ZepEWY": {
+        "string": "Item",
+        "context": "Dry run item"
+    },
+    "ZhqH8J": {
+        "string": "Copiar cabeçalhos",
+        "context": "button"
+    },
+    "ZrIt1W": {
+        "string": "Excluir desconto"
+    },
+    "Zz67wc": {
+        "string": "Visualize e atualize seus webhooks e eventos."
+    },
+    "a/JR9Y": {
+        "string": "Salões",
+        "context": "sale type order discount"
+    },
+    "a6GDem": {
+        "string": "Todos os descontos",
+        "context": "tab name"
+    },
+    "aFU0vm": {
+        "string": "ou continuar com",
+        "context": "description"
+    },
+    "aFVFeH": {
+        "string": "Adicionar captura manual",
+        "context": "submit button"
+    },
+    "aJm/by": {
+        "string": "Classes de impostos",
+        "context": "Taxes section title"
+    },
+    "aKSUWR": {
+        "string": "Não é possível criar uma transação para um pedido inexistente"
+    },
+    "aMWJ7/": {
+        "string": "Esse campo não pode estar em branco para um novo webhook",
+        "context": "local error"
+    },
+    "aasX8r": {
+        "string": "Tipo de link",
+        "context": "label"
+    },
+    "abpvEI": {
+        "string": "A remoção de permissões pode causar a interrupção do aplicativo."
+    },
+    "acgbDa": {
+        "string": "Criado em",
+        "context": "product created at"
+    },
+    "avj76v": {
+        "string": "Atribua canais a essa zona de remessa para que saibamos quais pedidos serão aceitos",
+        "context": "ChannelsSection subtitle"
+    },
+    "awNXI/": {
+        "string": "Geração automática de códigos"
+    },
+    "azj0kR": {
+        "string": "A adição de permissão permite que o aplicativo tenha mais acesso aos seus dados."
+    },
+    "b088Xv": {
+        "string": "O aplicativo não fornece uma descrição."
+    },
+    "b1j4K6": {
+        "string": "Falso",
+        "context": "select label"
+    },
+    "b1t9bM": {
+        "string": "Nenhum cabeçalho de solicitação personalizado foi criado para esse webhook. Use o botão abaixo para adicionar um novo cabeçalho de solicitação personalizado.",
+        "context": "empty headers text"
+    },
+    "b2DlTO": {
+        "string": "Canais",
+        "context": "Taxes section title"
+    },
+    "bDBiac": {
+        "string": "Classe de imposto",
+        "context": "dropdown or column label"
+    },
+    "bGqAdR": {
+        "string": "Completo",
+        "context": "seo complete text"
+    },
+    "bKTEnb": {
+        "string": "Cancelar pedido",
+        "context": "button to cancel order"
+    },
+    "bPshhv": {
+        "string": "Pesquisar vouchers..."
+    },
+    "bRJD/v": {
+        "string": "Criar grupo de permissões",
+        "context": "button"
+    },
+    "bT71VU": {
+        "string": "Resultado",
+        "context": "total of all sent refunds"
+    },
+    "bVY7j0": {
+        "string": "Tradução",
+        "context": "Translated Name"
+    },
+    "bfuxy3": {
+        "string": "Reembolso",
+        "context": "button, create new transaction with refund amount"
+    },
+    "biDgQS": {
+        "string": "Transação manual",
+        "context": "button, opens modal to create transaction in order"
+    },
+    "bk2M4q": {
+        "string": "Cancelar data final",
+        "context": "button"
+    },
+    "blZJmA": {
+        "string": "Ignorar alterações",
+        "context": "ExitFormPrompt ignore changes button"
+    },
+    "brkxbY": {
+        "string": "Não há transações a serem reembolsadas"
+    },
+    "c24hjq": {
+        "string": "Ativo",
+        "context": "status"
+    },
+    "c5fFin": {
+        "string": "Sair sem salvar as alterações?",
+        "context": "ExitFormPrompt title"
+    },
+    "cBVHN5": {
+        "string": "Motivo do reembolso",
+        "context": "grant refund, reason input field placeholder"
+    },
+    "cLcy6F": {
+        "string": "Número de produtos"
+    },
+    "cMov2n": {
+        "string": "Erro ao carregar o marketplace de aplicativos",
+        "context": "error message"
+    },
+    "cN8pa0": {
+        "string": "Reembolso com itens de linha",
+        "context": "radio button label"
+    },
+    "cOki0G": {
+        "string": "O que acontece se eu negar?"
+    },
+    "cPAc45": {
+        "string": "Nenhum resultado encontrado",
+        "context": "column picker search no results message"
+    },
+    "cS1wAx": {
+        "string": "Eu sei o que estou fazendo - confirme"
+    },
+    "cVjewM": {
+        "string": "Os preços dos produtos são inseridos com impostos",
+        "context": "label for radio button"
+    },
+    "cZN5Jd": {
+        "string": "Eventos",
+        "context": "Webhook details events"
+    },
+    "ckSjjv": {
+        "string": "Condições muito complexas para serem exibidas, use o playground para ver os detalhes."
+    },
+    "cnvyqW": {
+        "string": "Adicionar canal",
+        "context": "ChannelsSection select field placeholder"
+    },
+    "cohh4s": {
+        "string": "Sucesso",
+        "context": "Refund success status"
+    },
+    "cpnYcM": {
+        "string": "Resumo do pedido",
+        "context": "Order summary card title"
+    },
+    "d1PvC8": {
+        "string": "Conceder reembolso para itens devolvidos",
+        "context": "checkbox"
+    },
+    "d68yq7": {
+        "string": "Excluir cartões-presente"
+    },
+    "d7dT8o": {
+        "string": "Definir máximo",
+        "context": "button, sets granted refund amount in input"
+    },
+    "dDCLFW": {
+        "string": "Não disponível para venda neste canal",
+        "context": "alert message"
+    },
+    "dHAwu8": {
+        "string": "O código já existe"
+    },
+    "dLIeRH": {
+        "string": "Nenhum",
+        "context": "charge status none"
+    },
+    "da1ebU": {
+        "string": "Tipo de produto"
+    },
+    "dnbJKr": {
+        "string": "Essa transação não tem nenhum evento"
+    },
+    "dxCVWI": {
+        "string": "Não é possível solicitar uma fatura para rascunho de pedido",
+        "context": "error message"
+    },
+    "e08xWz": {
+        "string": "Principais produtos",
+        "context": "header"
+    },
+    "e0lt+l": {
+        "string": "Ver documentação"
+    },
+    "e1vU/4": {
+        "string": "Usar como filtro",
+        "context": "attribute is filterable in storefront"
+    },
+    "e4UtKH": {
+        "string": "Falha",
+        "context": "Transaction event status - failure"
+    },
+    "e5Mlfh": {
+        "string": "Cartão-presente (**** {code})",
+        "context": "Transaction title"
+    },
+    "eIGXwJ": {
+        "string": "Você está usando uma versão antiga das predefinições de filtro. As seguintes predefinições: {presetNames} devem ser atualizadas para continuar usando os filtros",
+        "context": "Alert text"
+    },
+    "eKEL/g": {
+        "string": "Pendente"
+    },
+    "eP2yRZ": {
+        "string": "Definir data de disponibilidade",
+        "context": "page availability date label"
+    },
+    "eQ7bCN": {
+        "string": "Webhooks de aplicativos"
+    },
+    "eR2vV/": {
+        "string": "Se não estiver marcado, ele cria um {link} - usado por plug-ins de pagamento"
+    },
+    "eRqx44": {
+        "string": "Pesquisar coleções..."
+    },
+    "eW36Jx": {
+        "string": "As consultas de pesquisa salvas aparecerão aqui"
+    },
+    "egBBQ/": {
+        "string": "Capturado",
+        "context": "all captured amount from transactions in order"
+    },
+    "f/Drvo": {
+        "string": "Solicitação de cancelamento de transação",
+        "context": "order history message"
+    },
+    "f/R1Ln": {
+        "string": "Reabastecido de:",
+        "context": "restocked group"
+    },
+    "f1Pj99": {
+        "string": "Desconto de {valor} através do {canal} com condições {desconhecidas"
+    },
+    "f2WJW7": {
+        "string": "Captura",
+        "context": "transaction event type, amount was captured from client"
+    },
+    "f3hf+w": {
+        "string": "O aplicativo não fornece uma política de privacidade."
+    },
+    "f4oJRg": {
+        "string": "O valor do reembolso é calculado automaticamente com base nos itens selecionados. Você pode modificá-lo manualmente, se necessário.",
+        "context": "order transaction refund summary description"
+    },
+    "f91E8b": {
+        "string": "Repositório",
+        "context": "app repository"
+    },
+    "fDc5ys": {
+        "string": "Produtos selecionados",
+        "context": "order transaction refund summary label"
+    },
+    "fITtdb": {
+        "string": "{valor} já reembolsado",
+        "context": "helper text"
+    },
+    "fKrRhF": {
+        "string": "Informações gerais"
+    },
+    "fLCV/w": {
+        "string": "Adicionar novo valor"
+    },
+    "fXdkiI": {
+        "string": "é"
+    },
+    "fg8dzN": {
+        "string": "Adicionar condição"
+    },
+    "fi9Qa/": {
+        "string": "Corrida a seco",
+        "context": "Dry run dialog header"
+    },
+    "fkgack": {
+        "string": "Solicitar reembolso",
+        "context": "button, sends refund for transaction"
+    },
+    "flnL3R": {
+        "string": "Pendente",
+        "context": "sum of pending amount (any status) in order's transactions"
+    },
+    "fqJXzO": {
+        "string": "Solicitação de reembolso da transação",
+        "context": "order history message"
+    },
+    "fsBsMy": {
+        "string": "Reembolso do subsídio",
+        "context": "button, form submit, grant refund create"
+    },
+    "ftOPoy": {
+        "string": "Cancelar publicação",
+        "context": "bulk actions button label"
+    },
+    "fuFCpI": {
+        "string": "Permitir pedidos não pagos",
+        "context": "allow unpaid orders checkbox label"
+    },
+    "g0GAdN": {
+        "string": "Excluir atributos"
+    },
+    "g8lXTL": {
+        "string": "Swatch",
+        "context": "swatch attribute"
+    },
+    "g9Mb+U": {
+        "string": "Modificar depósito",
+        "context": "change warehouse dialog title"
+    },
+    "gNm1li": {
+        "string": "Reembolsado",
+        "context": "Refunded transaction amount, data display header"
+    },
+    "gXvoFf": {
+        "string": "{releaseDate}",
+        "context": "information"
+    },
+    "gaOXvo": {
+        "string": "A concessão de reembolso para o pedido #{orderNumber} foi atualizada",
+        "context": "notification, form submitted"
+    },
+    "giVGCH": {
+        "string": "Insira o código do voucher"
+    },
+    "gjBiyj": {
+        "string": "Carregando..."
+    },
+    "gksZwp": {
+        "string": "Criar tipo de produto",
+        "context": "button"
+    },
+    "gr1BBC": {
+        "string": "Ação de transação solicitada com sucesso"
+    },
+    "grkY2V": {
+        "string": "Você não tem acesso a nenhum canal"
+    },
+    "gx6b6x": {
+        "string": "Pesquisa",
+        "context": "search shortcut"
+    },
+    "gygOA1": {
+        "string": "Desativar",
+        "context": "button"
+    },
+    "gzM1em": {
+        "string": "Adicionar regra"
+    },
+    "h0IgEq": {
+        "string": "Enviar automaticamente o reembolso concedido",
+        "context": "checkbox"
+    },
+    "h2hEKV": {
+        "string": "Pesquisar cartões-presente, por exemplo, {exampleGiftCardCode}",
+        "context": "search gift card placeholder"
+    },
+    "h2vipu": {
+        "string": "Código"
+    },
+    "h5P++h": {
+        "string": "Variantes"
+    },
+    "h65vZI": {
+        "string": "Usado",
+        "context": "times voucher used"
+    },
+    "hAoqp6": {
+        "string": "Falha ao salvar as permissões. Atualize a página e tente novamente."
+    },
+    "hJDnLg": {
+        "string": "Próximos aplicativos",
+        "context": "section header"
+    },
+    "hJrzlT": {
+        "string": "Todo o conteúdo",
+        "context": "tab name"
+    },
+    "hLSgWj": {
+        "string": "{productCount} disponível neste local",
+        "context": "warehouse label number available of products"
+    },
+    "hTLCC2": {
+        "string": "Será publicado em {data}",
+        "context": "channel publication date"
+    },
+    "hVPucN": {
+        "string": "Modo de luz"
+    },
+    "hnRRUe": {
+        "string": "Saiba mais...",
+        "context": "docs link label"
+    },
+    "hoii+4": {
+        "string": "Reembolsado",
+        "context": "heading, sum of all completed refunds from transactions in order"
+    },
+    "htvX+Z": {
+        "string": "Negar"
+    },
+    "hyAOPB": {
+        "string": "Usar o plugin Avalara"
+    },
+    "iBW3rG": {
+        "string": "Aplicar",
+        "context": "button"
+    },
+    "iFM716": {
+        "string": "Quanto dinheiro você deseja devolver ao cliente pelo pedido?",
+        "context": "grant refund, refund card subtitle"
+    },
+    "iIfq2+": {
+        "string": "Cancel",
+        "context": "Transaction cancel button - return preauthorized amount to client"
+    },
+    "iOOPMd": {
+        "string": "Um resumo de todos os pagamentos de transações registradas"
+    },
+    "icb1fc": {
+        "string": "As alocações de estoque ocorrem quando:",
+        "context": "tooltip"
+    },
+    "idr+JK": {
+        "string": "Atribuir e salvar",
+        "context": "assign reference to a page, button"
+    },
+    "if9gAZ": {
+        "string": "Informações",
+        "context": "Transaction event status - unknown status, info without event data"
+    },
+    "izJvcM": {
+        "string": "Páginas de pesquisa",
+        "context": "label"
+    },
+    "j/Oo0B": {
+        "string": "Publicar",
+        "context": "bulk actions button label"
+    },
+    "j08fR9": {
+        "string": "Coleções",
+        "context": "Product collections"
+    },
+    "jMzyU8": {
+        "string": "Classes de impostos",
+        "context": "tax classes card header"
+    },
+    "jVjsVq": {
+        "string": "por",
+        "context": "App by Author"
+    },
+    "jXf/9p": {
+        "string": "Ocultar em listagens de produtos",
+        "context": "product availability"
+    },
+    "ja+tNj": {
+        "string": "solicita acesso a novas permissões."
+    },
+    "jgURyO": {
+        "string": "Selecionar canal",
+        "context": "product price"
+    },
+    "jmZSK1": {
+        "string": "O produto não está disponível em canais selecionados"
+    },
+    "juxCV3": {
+        "string": "Atribuir produto",
+        "context": "dialog header"
+    },
+    "jvo0vs": {
+        "string": "Salvar"
+    },
+    "jz2SlO": {
+        "string": "Substituído",
+        "context": "refunded fulfillment, section header"
+    },
+    "k20lqw": {
+        "string": "Fluxo legado detectado - selecione a estratégia tributária no menu suspenso"
+    },
+    "k62BKw": {
+        "string": "Não definido",
+        "context": "select label"
+    },
+    "k6sfZr": {
+        "string": "Esse produto ainda está em pré-venda. Você poderá recebê-lo após a data de lançamento",
+        "context": "tooltip content when product is in preorder"
+    },
+    "kAAlGL": {
+        "string": "Regras"
+    },
+    "kAPaN6": {
+        "string": "Vazio",
+        "context": "empty metadata text"
+    },
+    "kEAjZV": {
+        "string": "Rich Text",
+        "context": "rich text attribute type"
+    },
+    "kFkPWB": {
+        "string": "Número"
+    },
+    "kFsTMN": {
+        "string": "Excluir clientes"
+    },
+    "kIcyUo": {
+        "string": "Lesma",
+        "context": "column header"
+    },
+    "kJYa8Y": {
+        "string": "Valor de reembolso selecionado:",
+        "context": "grant refund, refund card calculated refund value"
+    },
+    "kMziE/": {
+        "string": "Referência do PSP"
+    },
+    "kVKTwC": {
+        "string": "Vencimento do pedido",
+        "context": "order expiration card title"
+    },
+    "kVL3LM": {
+        "string": "Códigos de voucher"
+    },
+    "kWw0fr": {
+        "string": "Reembolso do subsídio"
+    },
+    "kXqn6A": {
+        "string": "Cobrar impostos",
+        "context": "table header column"
+    },
+    "kYYbrv": {
+        "string": "Publicado desde {data}",
+        "context": "channel publication date"
+    },
+    "kYtxJ1": {
+        "string": "Ao excluir {name}, você removerá a instalação do aplicativo. Se você estiver pagando pela assinatura do aplicativo, lembre-se de cancelar a assinatura do aplicativo no Saleor Marketplace.",
+        "context": "delete app"
+    },
+    "kdRcqU": {
+        "string": "Pesquisar clientes..."
+    },
+    "kfvvnM": {
+        "string": "O valor fornecido não pode exceder o valor cobrado pela transação selecionada"
+    },
+    "kgVqk1": {
+        "string": "Nome da categoria"
+    },
+    "kkIw+l": {
+        "string": "Rascunho #{orderNumber}",
+        "context": "replacement created order history message draft number"
+    },
+    "kn7jjd": {
+        "string": "Configurações gerais",
+        "context": "section header"
+    },
+    "kpRxSA": {
+        "string": "Exigir link de confirmação de e-mail",
+        "context": "Require email confirmation link"
+    },
+    "krer6Z": {
+        "string": "Visualização dos recursos"
+    },
+    "kuo4fW": {
+        "string": "Captura de transações manuais",
+        "context": "dialog title"
+    },
+    "l3iOju": {
+        "string": "Reembolso",
+        "context": "transaction event type, transaction was refunded to client"
+    },
+    "l4o0ar": {
+        "string": "Voucher: {voucherName}",
+        "context": "voucher type order discount"
+    },
+    "lEG/12": {
+        "string": "Consulta de assinatura",
+        "context": "Webhook subscription query card title"
+    },
+    "lF+VJQ": {
+        "string": "Informações sobre a remessa",
+        "context": "Shipment information card header"
+    },
+    "lJXkFS": {
+        "string": "Nome do desconto",
+        "context": "discount name"
+    },
+    "lNZuWl": {
+        "string": "Todos os pedidos"
+    },
+    "lOMgms": {
+        "string": "Realizado a partir de:",
+        "context": "fulfillment group"
+    },
+    "lSd5Zo": {
+        "string": "Nenhum",
+        "context": "app permissions label"
+    },
+    "lXq4EE": {
+        "string": "Envio de reembolso: {moeda} {amount}",
+        "context": "checkbox"
+    },
+    "lZC/1a": {
+        "string": "maior que {valor}"
+    },
+    "laax5C": {
+        "string": "Os produtos foram devolvidos com sucesso e o reembolso foi concedido!",
+        "context": "order returned success message"
+    },
+    "lfXze9": {
+        "string": "Excluir vouchers"
+    },
+    "lhfPkc": {
+        "string": "A atribuição dos estoques será possível depois que o produto for salvo.",
+        "context": "variant stocks section subtitle"
+    },
+    "lnteBJ": {
+        "string": "Taxa de inadimplência do país",
+        "context": "country rates list label for the default rate"
+    },
+    "lqIzC8": {
+        "string": "Esse campo precisa ser exclusivo"
+    },
+    "lrdAIY": {
+        "string": "Cancelado",
+        "context": "amount of all cancelled transactions in order"
+    },
+    "lwjzVj": {
+        "string": "Ordem de edição"
+    },
+    "mIRBuW": {
+        "string": "É publicado"
+    },
+    "mSCZd4": {
+        "string": "Assíncrono",
+        "context": "Webhook details asynchronous events"
+    },
+    "mTEqYL": {
+        "string": "Não há canais para atribuir. Atribua-os primeiro para o produto.",
+        "context": "NoChannels content"
+    },
+    "mgFyBA": {
+        "string": "Esse nome deve ser exclusivo"
+    },
+    "n0w2ZT": {
+        "string": "atualmente selecionado",
+        "context": "label for currently selected warehouse"
+    },
+    "nA2g2e": {
+        "string": "Aplicativo externo",
+        "context": "label"
+    },
+    "nBzIBG": {
+        "string": "Excluir grupo de permissões"
+    },
+    "nII/qB": {
+        "string": "{amount, plural,one {One ordered}other {{amount} ordered}}",
+        "context": "number of ordered products"
+    },
+    "nIuKz3": {
+        "string": "Rascunho",
+        "context": "Refund status none"
+    },
+    "nJ0tek": {
+        "string": "Todos os rascunhos de ordens",
+        "context": "tab name"
+    },
+    "nMojhT": {
+        "string": "Redefinir",
+        "context": "Clear filters button text"
+    },
+    "nP8iex": {
+        "string": "Pesquisar conteúdo",
+        "context": "search content placeholder"
+    },
+    "nSMe3f": {
+        "string": "Reembolso pendente",
+        "context": "Refund in progress transaction amount, data display header"
+    },
+    "nYD7NT": {
+        "string": "Transação #{index} em {data}"
+    },
+    "nZDQbr": {
+        "string": "Nome do cliente",
+        "context": "column header"
+    },
+    "ng0ZDW": {
+        "string": "Valor do reembolso",
+        "context": "label, input for amount to refund in transaction"
+    },
+    "ngAgBy": {
+        "string": "Ainda não há países usando essa classe de imposto, use a guia {tab} para atribuir taxas de imposto.",
+        "context": "tax class rates list label when no countries are assigned"
+    },
+    "ngSJ7N": {
+        "string": "Sua consulta de assinatura requer as seguintes permissões:",
+        "context": "alert title"
+    },
+    "nioOBQ": {
+        "string": "Ao excluir {name}, você excluirá todos os dados e webhooks relacionados a esse aplicativo.",
+        "context": "delete custom app"
+    },
+    "nwcJVT": {
+        "string": "Quando ativado, todas as transações exigiriam uma etapa adicional para serem cobradas. ({link})",
+        "context": "When enabled, all transactions would require an additional step to be charged."
+    },
+    "nyhf9b": {
+        "string": "+ Adicionar filtro",
+        "context": "Add filter button text"
+    },
+    "o/4OCR": {
+        "string": "O frete já foi reembolsado"
+    },
+    "o68j+t": {
+        "string": "Pesquisar membros da equipe..."
+    },
+    "oX2TAb": {
+        "string": "Selecionar presentes"
+    },
+    "oboeOT": {
+        "string": "Adicione as seguintes permissões"
+    },
+    "of/+iV": {
+        "string": "Reembolso estornado",
+        "context": "transaction event type, refund was reversed, funds are back to store account"
+    },
+    "onUvP+": {
+        "string": "Pedido",
+        "context": "discount type"
+    },
+    "orvpWh": {
+        "string": "Voltar"
+    },
+    "p12BmC": {
+        "string": "Essa transação não é reembolsável.",
+        "context": "transaction refund tiles disabled transaction"
+    },
+    "p1D4Ok": {
+        "string": "O reembolso manual foi criado com sucesso",
+        "context": "order send refund, manual transaction refund was created"
+    },
+    "p6ugX0": {
+        "string": "Manter a ordem",
+        "context": "button to keep order"
+    },
+    "p9bXAy": {
+        "string": "Transação",
+        "context": "default transaction name"
+    },
+    "pAwBtz": {
+        "string": "Valor da recompensa"
+    },
+    "pEf/m+": {
+        "string": "Não há visualizações no momento. Fique ligado!"
+    },
+    "pFVX6g": {
+        "string": "A variante com esses atributos já existe"
+    },
+    "pGfO2i": {
+        "string": "Nenhum",
+        "context": "empty option"
+    },
+    "pGwvpX": {
+        "string": "Desativado",
+        "context": "status"
+    },
+    "pOUOnw": {
+        "string": "Todos os vouchers",
+        "context": "tab name"
+    },
+    "pPef6L": {
+        "string": "Incluído no subtotal",
+        "context": "order payment"
+    },
+    "pWClYm": {
+        "string": "Configurações padrão",
+        "context": "card title"
+    },
+    "phIGQ1": {
+        "string": "Cancelado",
+        "context": "Canceled transaction amount, data display header"
+    },
+    "psmnv9": {
+        "string": "Editar permissões"
+    },
+    "puRlnN": {
+        "string": "Preços registrados",
+        "context": "card subtitle"
+    },
+    "puUvKO": {
+        "string": "Instalar aplicativo externo",
+        "context": "button"
+    },
+    "q1shey": {
+        "string": "Chave",
+        "context": "key-value field input"
+    },
+    "q4EmsW": {
+        "string": "Total:"
+    },
+    "q5Lfp4": {
+        "string": "O pedido contém produtos que têm a opção \"Rastrear inventário\" ativada.",
+        "context": "tooltip"
+    },
+    "q7v0W7": {
+        "string": "Salvar rascunho",
+        "context": "save draft button"
+    },
+    "qDfaDI": {
+        "string": "Nenhum aplicativo ou plug-in está configurado para lidar com a ação de transação solicitada"
+    },
+    "qNeXG1": {
+        "string": "Registro de usuário",
+        "context": "User registration"
+    },
+    "qPSWmL": {
+        "string": "Inserir uso"
+    },
+    "qSCmIG": {
+        "string": "inferior a {valor}"
+    },
+    "qZHHed": {
+        "string": "Estoque insuficiente",
+        "context": "stock exceeded dialog title"
+    },
+    "qa/dDe": {
+        "string": "Playground",
+        "context": "GraphiQL Playground in the dev mode panel"
+    },
+    "qbFKVI": {
+        "string": "O reembolso do pedido #{orderNumber} foi concedido",
+        "context": "notification, form submitted"
+    },
+    "qbcNjQ": {
+        "string": "Nome do imposto",
+        "context": "table header column"
+    },
+    "qgQeVW": {
+        "string": "Gerar códigos de voucher"
+    },
+    "qtF0Ft": {
+        "string": "Autorização",
+        "context": "transaction event type, amount was authorized, but not captured"
+    },
+    "qzDwLa": {
+        "string": "URL inválido",
+        "context": "Invalid url value"
+    },
+    "rH4pi3": {
+        "string": "Devolução e substituição de produtos",
+        "context": "page header"
+    },
+    "rHQmCt": {
+        "string": "Personalizado",
+        "context": "column picker section header"
+    },
+    "rbrahO": {
+        "string": "Fechar"
+    },
+    "rxNddi": {
+        "string": "Homepage"
+    },
+    "rxlJJ/": {
+        "string": "Produto",
+        "context": "grant refund table, column header"
+    },
+    "s6oAC+": {
+        "string": "Pesquisar produtos",
+        "context": "search label"
+    },
+    "sFynTT": {
+        "string": "Reembolso",
+        "context": "grant refund, refund card title"
+    },
+    "sGDsFP": {
+        "string": "Deve corresponder a `x-*`, `authorization*` ou `brokerproperties`.",
+        "context": "header name input"
+    },
+    "scTuDZ": {
+        "string": "Salvar pesquisa como predefinição"
+    },
+    "se5+j/": {
+        "string": "Transação",
+        "context": "transaction refund tiles transaction name"
+    },
+    "shmSDX": {
+        "string": "Nenhum produto está disponível no canal atribuído a esse pedido.",
+        "context": "no products placeholder"
+    },
+    "skklRz": {
+        "string": "Mostrar preços brutos na vitrine",
+        "context": "table header column"
+    },
+    "stjHjY": {
+        "string": "O código promocional já existe",
+        "context": "error message"
+    },
+    "t1UYU6": {
+        "string": "A desinstalação do aplicativo removerá todos os dados pessoais de seus clientes armazenados por {name}.",
+        "context": "install app privacy"
+    },
+    "tCLTCb": {
+        "string": "Todos os produtos",
+        "context": "tab name"
+    },
+    "tR+UuE": {
+        "string": "O usuário não existe. Verifique seu e-mail no URL"
+    },
+    "tZnV8L": {
+        "string": "Estoque",
+        "context": "Header row stock label"
+    },
+    "taS/08": {
+        "string": "Atribua essa variante a um canal no gerenciador de canais de produtos para definir a alocação de depósitos",
+        "context": "variant stocks section subtitle"
+    },
+    "tiY7bx": {
+        "string": "Adicionar novo produto"
+    },
+    "tlGXkh": {
+        "string": "Ilimitado",
+        "context": "input description"
+    },
+    "tmrBDK": {
+        "string": "Foi criada uma transação manual ({amount})"
+    },
+    "tqJwfo": {
+        "string": "Definir data final",
+        "context": "button"
+    },
+    "tthToS": {
+        "string": "Desativado"
+    },
+    "u0hKaa": {
+        "string": "Poupe horas de avaliação da Saleor por conta própria falando com nosso engenheiro de soluções.",
+        "context": "home get in touch card description"
+    },
+    "u34css": {
+        "string": "Não há exceções para esse canal",
+        "context": "label for empty list in channels list"
+    },
+    "u6V5I/": {
+        "string": "Alterar a unidade de peso padrão",
+        "context": "shipping zones configuration"
+    },
+    "uKlrEk": {
+        "string": "Todos os {itemsName} disponíveis foram selecionados",
+        "context": "all selected items message"
+    },
+    "uN88fb": {
+        "string": "Devolução e substituição de produtos",
+        "context": "button, submit form"
+    },
+    "uQNm59": {
+        "string": "Adicionar cabeçalho de solicitação personalizado",
+        "context": "add header,button"
+    },
+    "uRTj1Q": {
+        "string": "Fatura não encontrada",
+        "context": "error message"
+    },
+    "uRfta0": {
+        "string": "Ativar confirmação por e-mail",
+        "context": "Enable email confirmation"
+    },
+    "uT5L4h": {
+        "string": "Cancel",
+        "context": "cancel button label"
+    },
+    "ucLtY8": {
+        "string": "Regras de desconto para produtos, coleções ou categorias."
+    },
+    "uccjUM": {
+        "string": "Objetos",
+        "context": "Dry run objects"
+    },
+    "udJUSa": {
+        "string": "Autorizar",
+        "context": "Authorize {app name}"
+    },
+    "uf1ttM": {
+        "string": "O valor da recompensa da regra é necessário"
+    },
+    "ukYopn": {
+        "string": "Incluído nos preços",
+        "context": "order payment"
+    },
+    "un+VWt": {
+        "string": "Pesquisar produtos"
+    },
+    "uo8NOT": {
+        "string": "desconhecido"
+    },
+    "uoKAmI": {
+        "string": "Adicionar novo pedido"
+    },
+    "uqxjSR": {
+        "string": "Colunas",
+        "context": "column picker section header"
+    },
+    "uwk5e9": {
+        "string": "Excluir produtos"
+    },
+    "v1vJ77": {
+        "string": "Editar regra"
+    },
+    "v2+u4c": {
+        "string": "Atribua e classifique os depósitos que serão usados nesse canal (os depósitos podem ser atribuídos em vários canais).",
+        "context": "card subtitle"
+    },
+    "v3WWK+": {
+        "string": "O status é inválido"
+    },
+    "vAxm7u": {
+        "string": "Você deve selecionar um canal primeiro e selecionar pelo menos um presente"
+    },
+    "vEwjub": {
+        "string": "Abrir no GraphiQL",
+        "context": "button"
+    },
+    "vSy+II": {
+        "string": "Estrela no Github"
+    },
+    "vTPu1s": {
+        "string": "Quantidade de código (max {maxCodes})"
+    },
+    "vUY6ir": {
+        "string": "O valor deve ser maior que 0 quando você transferir fundos"
+    },
+    "vXCeIi": {
+        "string": "Falha"
+    },
+    "vdk01u": {
+        "string": "Não pode ser enviado",
+        "context": "product type"
+    },
+    "vpTyL1": {
+        "string": "O valor fornecido não pode exceder o valor cobrado pela transação selecionada",
+        "context": "error message"
+    },
+    "vprU7C": {
+        "string": "Selecionar canais de pedidos visíveis"
+    },
+    "vqu+23": {
+        "string": "Rascunho salvo",
+        "context": "success notifier message"
+    },
+    "vz3yxp": {
+        "string": "Permissões de canais"
+    },
+    "w+3Q3e": {
+        "string": "Tipo de produto",
+        "context": "input label"
+    },
+    "w067gF": {
+        "string": "Reembolsos",
+        "context": "refund section header"
+    },
+    "w6kcxY": {
+        "string": "O que acontece se eu aprovar?"
+    },
+    "w7jT4W": {
+        "string": "Nenhum canal selecionado"
+    },
+    "wDYozn": {
+        "string": "O aplicativo não tem nenhuma permissão concedida."
+    },
+    "wJep/X": {
+        "string": "Liquidado",
+        "context": "refund amounts were settled"
+    },
+    "wLB8B3": {
+        "string": "Visibilidade",
+        "context": "column header"
+    },
+    "wRvjoc": {
+        "string": "Criado em",
+        "context": "app created at label"
+    },
+    "wUQCnQ": {
+        "string": "Salvar",
+        "context": "Save filters button text"
+    },
+    "wXFttp": {
+        "string": "Observação: somente os canais com moeda correspondente estão disponíveis.",
+        "context": "note on currency"
+    },
+    "wbsq7O": {
+        "string": "Uso"
+    },
+    "wkeWw9": {
+        "string": "Criar reembolso com itens de linha",
+        "context": "create refund title"
+    },
+    "wmeRVH": {
+        "string": "Cancelar pedido #{orderNumber}",
+        "context": "dialog header"
+    },
+    "wsDF7X": {
+        "string": "Variantes do produto",
+        "context": "product variant attribute entity type"
+    },
+    "x0n6YG": {
+        "string": "Esse reembolso está sendo processado no momento e não pode ser editado"
+    },
+    "x2mg39": {
+        "string": "Usado em ordem",
+        "context": "Transaction event description"
+    },
+    "xGC2Ge": {
+        "string": "Definir quantidades máximas",
+        "context": "grant refund, button"
+    },
+    "xNElry": {
+        "string": "Transação - {name}",
+        "context": "Transaction card title with name"
+    },
+    "xNfh4L": {
+        "string": "Permissões do aplicativo",
+        "context": "app permissions tooltip header"
+    },
+    "xTyg+p": {
+        "string": "Não há opções para selecionar"
+    },
+    "xrKHS6": {
+        "string": "Sucesso"
+    },
+    "xy66ru": {
+        "string": "Excluir predefinição",
+        "context": "custom preset delete, dialog header"
+    },
+    "y08GTW": {
+        "string": "O canal é necessário"
+    },
+    "y8E0iG": {
+        "string": "Incompleto",
+        "context": "seo incomplete text"
+    },
+    "yAFaVK": {
+        "string": "Síncrono",
+        "context": "Webhook details synchronous events"
+    },
+    "yJqbYv": {
+        "string": "O webhook assíncrono envia a carga útil e continua o processamento.",
+        "context": "Asynchronous events description"
+    },
+    "yLfbSh": {
+        "string": "Nome do canal",
+        "context": "support label"
+    },
+    "ySqncG": {
+        "string": "Continue editando",
+        "context": "ExitFormPrompt keep editing button"
+    },
+    "yZB41s": {
+        "string": "Todos os aplicativos",
+        "context": "section header"
+    },
+    "yfhLcv": {
+        "string": "Estamos trabalhando para substituir os plug-ins por aplicativos. Leia mais sobre"
+    },
+    "ygxco/": {
+        "string": "O cliente fez mais de uma transação. Você precisa enviar o reembolso manualmente.",
+        "context": "tooltip, submit form"
+    },
+    "yi1HSj": {
+        "string": "({numberOfCharacters} de {maxCharacters} caracteres)"
+    },
+    "yivxZJ": {
+        "string": "Pago com cartão-presente: ({link})",
+        "context": "order payment"
+    },
+    "ymo+cm": {
+        "string": "Todos os produtos",
+        "context": "voucher discount"
+    },
+    "ys0jH2": {
+        "string": "Publicado",
+        "context": "channel publication status"
+    },
+    "z/2AZY": {
+        "string": "Tipo de desconto"
+    },
+    "z2yYL3": {
+        "string": "Geralmente termina com /api/manifest",
+        "context": "hint"
+    },
+    "z3GGbZ": {
+        "string": "Atributos excluídos com sucesso",
+        "context": "deleted multiple attributes"
+    },
+    "z3w/oL": {
+        "string": "Você deve fornecer o valor do montante"
+    },
+    "z9c6/C": {
+        "string": "Depreciado"
+    },
+    "zHx85l": {
+        "string": "Não pode ser superior a 100%",
+        "context": "value input helper text"
+    },
+    "zSDfq0": {
+        "string": "Usar taxa de imposto fixa"
+    },
+    "zb1rmx": {
+        "string": "{country} não está disponível como destino de remessa para esse canal, verifique {configLink}.",
+        "context": "alert message"
+    },
+    "zehNKT": {
+        "string": "A regra tem um erro, abra a regra para ver os detalhes"
+    },
+    "zf48rQ": {
+        "string": "Total capturado",
+        "context": "sum of captured amount of all transactions"
+    },
+    "zfBsje": {
+        "string": "Excluir conteúdo",
+        "context": "bulk actions button label"
+    },
+    "zfjAc7": {
+        "string": "Produtos não atendidos",
+        "context": "grant refund, card header"
+    },
+    "zgqPGF": {
+        "string": "Atributo {name}",
+        "context": "attribute list"
+    },
+    "zhnwl6": {
+        "string": "Nome da predefinição",
+        "context": "save preset name"
+    },
+    "zmnGkp": {
+        "string": "Bifurcação no GitHub",
+        "context": "button"
+    },
+    "znbVYT": {
+        "string": "Estará disponível em {data}",
+        "context": "product available for purchase date"
+    },
+    "ztvvcm": {
+        "string": "Tipo de amostra",
+        "context": "swatch attribute type"
     }
 }
